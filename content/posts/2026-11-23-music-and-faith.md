@@ -3,7 +3,7 @@ title: "La musique et la foi"
 date: 2026-11-23
 slug: music-and-faith
 draft: false
-shareImage: /images/music-faith/sonreal.jpg
+shareImage: /images/music-faith/natashastpier.jpg
 ---
 
 Je passe beaucoup de temps à écouter des musiciens sur Instagram. Voici quelques-uns de ceux que j'écoute en ce moment.
@@ -14,70 +14,68 @@ Paul a fait quelque chose de semblable à Athènes. Il a utilisé leur poésie e
 
 Ils ne chantent pas tous des chants de louange. La plupart chantent simplement la vie, et la foi en fait partie. C'est ce que j'aime chez eux. Touche une carte pour écouter la chanson sur Instagram.
 
-J'ai aussi fait une vidéo de réaction à la nouvelle chanson de SonReal. Tu peux la regarder ici :
-
-[Ma réaction à la nouvelle vidéo de SonReal](https://www.youtube.com/shorts/wePjZMr6beE)
+Ces chansons sont en français. Voici des musiciens qui chantent en français — certains des chants de louange, d'autres des chansons sur la vie, et la foi en fait partie.
 
 <div class="ig-grid">
-<a class="ig-card" href="https://www.instagram.com/reel/DgBgmKwB84s/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/sonreal.jpg" alt="SonReal" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">SonReal</span>
-<span class="ig-card__note">Un rap drôle et plein d'espoir sur le fait de reconnaître la bonne musique quand on l'entend. Il ne faut pas juger un livre à sa couverture.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/De184l-tNGu/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/natashastpier.jpg" alt="Natasha St-Pier" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Natasha St-Pier</span>
+<span class="ig-card__note">Chante la foi en français, des chansons douces et pleines d'espérance.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgDnpYFAUjr/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/tamzene.jpg" alt="Tamzene" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Tamzene</span>
-<span class="ig-card__note">“I'll save you a seat.” Une chanson douce, et une chaise libre.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DeR1f3fiFUA/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/sandra_kouame.jpg" alt="Sandra Kouame" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Sandra Kouame</span>
+<span class="ig-card__note">Des chants de louange en français, et une école pour apprendre à louer.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df5X6L3K-3W/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/lilyfittsmusic.jpg" alt="Lily Fitts" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Lily Fitts</span>
-<span class="ig-card__note">Sa chanson “Notice” est enfin sortie, plus d'un an après la première fois où elle l'a jouée.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DfAdLu2B6x9/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/gwendressaire.jpg" alt="Gwen Dressaire" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Gwen Dressaire</span>
+<span class="ig-card__note">Pasteur et chanteur, des chants de louange en français.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgE-ybeI6ko/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/fatheringstarlings.jpg" alt="Fathering Starlings" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Fathering Starlings</span>
-<span class="ig-card__note">“Your Heart in the Fire” — du folk lo-fi venu du Nord, honnête, usé par le temps, brut.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DewyWocMg5u/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/danluiten.jpg" alt="Dan Luiten" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Dan Luiten</span>
+<span class="ig-card__note">Des chants de louange en français, à chanter ensemble.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DfkSMZhpium/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/naterosemusic.jpg" alt="Nate Rose" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Nate Rose</span>
-<span class="ig-card__note">Il a donné sa vie à Dieu l'année dernière. Maintenant, il veut raconter son histoire, et le louer en chemin.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DdT0jg3jBKW/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/gregoryturpin.jpg" alt="Grégory Turpin" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Grégory Turpin</span>
+<span class="ig-card__note">De la pop chrétienne en français, des chansons qui parlent de la foi.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/p/DgBMyeNkkyO/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/ostonmusic.jpg" alt="OSTON" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">OSTON</span>
-<span class="ig-card__note">Sa nouvelle chanson “Not Alone”, et une salle à San Francisco qui chante chaque mot.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DdWoWrINqm8/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/mattmarvane.jpg" alt="Matt Marvane" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Matt Marvane</span>
+<span class="ig-card__note">Des chants de louange en français, pour la gloire de Dieu.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df1qtokoyBh/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/kenta_dedachi.jpg" alt="Kenta Dedachi" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Kenta Dedachi</span>
-<span class="ig-card__note">“Secret Fort” — des jours d'enfance derrière l'église, les cloches du soir, les meilleurs amis et des mondes imaginaires.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DdIunEbNi6U/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/sarahmarvane.jpg" alt="Sarah Marvane" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Sarah Marvane</span>
+<span class="ig-card__note">Chante pour Jésus, des chansons de louange en français.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DfCRnSiPXa5/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/jeffarrandale.jpg" alt="Jeff Arrandale" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Jeff Arrandale</span>
-<span class="ig-card__note">Une nouvelle chanson tirée de Luc 15, le fils prodigue. “Let Me Go”.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/Df-ZtoPgftv/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/jonathangambela.jpg" alt="Jonathan C. Gambela" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Jonathan C. Gambela</span>
+<span class="ig-card__note">Du gospel en français, des chants pleins de vie.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df71X0lzZsN/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/allison_eide.jpg" alt="Allison Eide" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Allison Eide</span>
-<span class="ig-card__note">“Jesus is kind. Tour is a gift.” Ses chansons, jouées chez elle.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DfPxPYusEQA/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/cassikalalatshimpi.jpg" alt="Cassi Kalala" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Cassi Kalala</span>
+<span class="ig-card__note">Chantre et conductrice de louange, du gospel en français.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgD31mXBDcn/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/rachelpurcellmusic.jpg" alt="Rachel Purcell" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Rachel Purcell</span>
-<span class="ig-card__note">Sa chanson “keep going” — de la musique rétro et rêveuse sur Jésus, sortie maintenant.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DRfCrp4gN15/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/rachelanyeme.jpg" alt="Rachel Anyeme" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Rachel Anyeme</span>
+<span class="ig-card__note">Conductrice de louange, des chants en français.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df9vziqCJtC/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/haleyjonesofficial.jpg" alt="Haley Jones" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Haley Jones</span>
-<span class="ig-card__note">“Everybody knows somebody who needs to hear about Jesus.”</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DeixHjaxZP7/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/priscabenita_.jpg" alt="Prisca Benita" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Prisca Benita</span>
+<span class="ig-card__note">Chante son amour pour Jésus, en français.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgAmATaizM0/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/gracegrabermusic.jpg" alt="Grace Graber" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Grace Graber</span>
-<span class="ig-card__note">Des chansons sur son parcours avec sa santé mentale. Et c'est aussi du pop punk.</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DNv-aCYWhPv/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/josiane_nsimba.jpg" alt="Josiane Nsimba" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Josiane Nsimba</span>
+<span class="ig-card__note">Enfant de Dieu, chantre — des chants de louange en français.</span></span>
 </a>
 </div>
 
